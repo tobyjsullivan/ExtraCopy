@@ -1,0 +1,8 @@
+F:\Projects\ExtraCopy\ExtraCopy\bin\Install\ExtraCopy.exe
+F:\Projects\ExtraCopy\ExtraCopy\bin\Install\ExtraCopy.pdb
+F:\Projects\ExtraCopy\ExtraCopy\obj\Install\ResolveAssemblyReference.cache
+F:\Projects\ExtraCopy\ExtraCopy\obj\Install\ExtraCopy.Properties.Resources.resources
+F:\Projects\ExtraCopy\ExtraCopy\obj\Install\ExtraCopy.SettingsDialog.resources
+F:\Projects\ExtraCopy\ExtraCopy\obj\Install\ExtraCopy.csproj.GenerateResource.Cache
+F:\Projects\ExtraCopy\ExtraCopy\obj\Install\ExtraCopy.exe
+F:\Projects\ExtraCopy\ExtraCopy\obj\Install\ExtraCopy.pdb

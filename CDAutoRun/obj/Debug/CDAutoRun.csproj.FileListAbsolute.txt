@@ -1,0 +1,8 @@
+F:\Projects\ExtraCopy\CDAutoRun\bin\Debug\CDAutoRun.exe
+F:\Projects\ExtraCopy\CDAutoRun\bin\Debug\CDAutoRun.pdb
+F:\Projects\ExtraCopy\CDAutoRun\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\ExtraCopy\CDAutoRun\obj\Debug\CDAutoRun.AutoRunWindow.resources
+F:\Projects\ExtraCopy\CDAutoRun\obj\Debug\CDAutoRun.Properties.Resources.resources
+F:\Projects\ExtraCopy\CDAutoRun\obj\Debug\CDAutoRun.csproj.GenerateResource.Cache
+F:\Projects\ExtraCopy\CDAutoRun\obj\Debug\CDAutoRun.exe
+F:\Projects\ExtraCopy\CDAutoRun\obj\Debug\CDAutoRun.pdb
